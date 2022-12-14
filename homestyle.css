@@ -1,0 +1,52 @@
+html {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #FFF7EE;
+}
+
+h1 {
+    color: #373737;
+}
+
+a {
+    color: #373737;
+    text-decoration: none;
+}
+
+p {
+    color:#373737;
+}
+
+h2 {
+    color:#373737;
+}
+
+.navbar {
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    align-items: center;
+    align-content: center;
+    background: #FFF7EE;
+}
+
+.navlink {
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    gap: 30px;
+    font-family: tahoma;
+}
+
+.contact {
+    color: white;
+}
+
+.mn {
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    row-gap: 50px;
+}
+
